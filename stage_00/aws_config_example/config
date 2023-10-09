@@ -1,0 +1,9 @@
+[default]
+region = eu-central-1
+output = json
+
+
+[profile user1]
+source_profile=default
+role_arn = arn:aws:iam::666666666666:user/marekjestmistrzem
+role_session_name=marekjestmistrzem
