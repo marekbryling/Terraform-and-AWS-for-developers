@@ -27,3 +27,7 @@ Prerequisites
 ## Additional information
 
 The file [Setup.md](https://github.com/marekbryling/Terraform-and-AWS-for-developers/blob/master/part_01/stage_00/Setup.md) contains links to documentation for a brief description of the installation for Debian.
+
+## Warning
+
+*This repository, especially in `part_01` contains examples to help understand the basics. Never use this code in production in this form. You are going to programming hell for `ctrl+c` & `ctrl+v` from this repository.*
